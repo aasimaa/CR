@@ -5,4 +5,10 @@ Mumbai exiting
 Mumbai entering again 
 saying hello, testing commit again
 
+<<<<<<< HEAD
 trying tried attempt to commit to myfile from Mumbai!
+=======
+Hello London!
+this is a test message from London to append into the existing file
+London exiting!
+>>>>>>> be3da88a71bb59a131d423b51b77577b170a2e82
